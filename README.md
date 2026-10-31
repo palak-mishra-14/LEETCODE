@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palak-mishra-14/LEETCODE/tree/master/0001-two-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/palak-mishra-14/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/palak-mishra-14/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/palak-mishra-14/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/palak-mishra-14/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/palak-mishra-14/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/palak-mishra-14/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/palak-mishra-14/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
