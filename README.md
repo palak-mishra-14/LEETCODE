@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/palak-mishra-14/LEETCODE/tree/master/0001-two-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/palak-mishra-14/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/palak-mishra-14/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/palak-mishra-14/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/palak-mishra-14/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/palak-mishra-14/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/palak-mishra-14/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -17,9 +18,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palak-mishra-14/LEETCODE/tree/master/0001-two-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/palak-mishra-14/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/palak-mishra-14/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/palak-mishra-14/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/palak-mishra-14/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/palak-mishra-14/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/palak-mishra-14/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -74,9 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/palak-mishra-14/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/palak-mishra-14/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/palak-mishra-14/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/palak-mishra-14/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/palak-mishra-14/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/palak-mishra-14/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
